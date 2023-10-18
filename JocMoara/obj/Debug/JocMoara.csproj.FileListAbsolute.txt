@@ -1,0 +1,14 @@
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\bin\Debug\JocMoara.exe.config
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\bin\Debug\JocMoara.exe
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\bin\Debug\JocMoara.pdb
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.csproj.AssemblyReference.cache
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.Menu.resources
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.Properties.Resources.resources
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.csproj.GenerateResource.cache
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.csproj.CoreCompileInputs.cache
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.exe
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.pdb
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.PlayersRegister.resources
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.JocMoara_Game.resources
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.ExitGameDialog.resources
+C:\Users\Cata\Desktop\Cata\Facultate\Anul 2\POO\Proiect Moara\JocMoara\JocMoara\obj\Debug\JocMoara.GameOver.resources

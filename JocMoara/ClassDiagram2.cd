@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JocMoara.Board">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAAAAAAAEAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JocMoara.Game">
+    <Position X="6.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAEAOAAAAAAAAIAAAAAAAAAAAEAAgAAoABgAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JocMoara.Mill">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAACAEAIgAAAAgADAAAgAQiAQACBAIBAAAUg=</HashCode>
+      <FileName>Mill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JocMoara.MillMoves">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MillMoves.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
